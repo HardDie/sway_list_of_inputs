@@ -25,7 +25,7 @@ This utility allows you to get a list of inputs in this view:
 
 ## How to install
 ```
-go install github.com/HardDie/sway_list_of_inputs
+go install github.com/HardDie/sway_list_of_inputs@latest
 ```
 
 ## How to run
